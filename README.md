@@ -93,7 +93,3 @@ Contributions are welcome! If you would like to suggest improvements or correcti
 
 ### License
 This project is licensed under MIT.
-
----
-
-Espero que isso atenda às suas necessidades! Se precisar de ajustes ou incluir informações específicas sobre o projeto, avise-me!
