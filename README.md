@@ -3,7 +3,7 @@
 ## Português 🇧🇷
 
 ### Projeto de Machine Learning
-Este repositório contém os projetos e códigos desenvolvidos durante a disciplina de **Machine Learning** na **Universidade Federal do Rio Grande do Norte (UFRN)**. O objetivo é explorar diferentes algoritmos de aprendizado de máquina, aplicando conceitos teóricos a problemas reais usando **Python**.
+Este repositório contém os projetos e códigos desenvolvidos durante a disciplina de **Machine Learning** na **Universidade Federal do Rio Grande do Norte (UFRN)**. O objetivo é explorar diferentes algoritmos de aprendizado de máquina, aplicando seus conceitos a problemas reais usando **Python**.
 
 ---
 
@@ -51,7 +51,7 @@ Este projeto é licenciado sob a licença MIT.
 ## English 🇺🇸
 
 ### Machine Learning Project
-This repository contains projects and code developed during the **Machine Learning** course at the **Federal University of Rio Grande do Norte (UFRN)**. The goal is to explore various machine learning algorithms, applying theoretical concepts to real-world problems using **Python**.
+This repository contains projects and code developed during the **Machine Learning** course at the **Federal University of Rio Grande do Norte (UFRN)**. The goal is to explore various machine learning algorithms, applying its core concepts to real-world problems using **Python**.
 
 ---
 
